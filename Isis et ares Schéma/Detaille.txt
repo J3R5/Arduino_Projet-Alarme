@@ -1,0 +1,6 @@
+Le Schéma a été fait via le logiciel Protheus 
+
+il y a un schéma du cablage fait via Isis,
+Puis le routage de se schema via Ares,
+certains composants ont été crée par moi même,
+comme les boutons arduino et l'empreinte du Buzzer.
