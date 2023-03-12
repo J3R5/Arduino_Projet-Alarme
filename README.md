@@ -1,5 +1,5 @@
 # Projet-Alarme-arduino
-Projet alarme arduino perso fait quant j'était a l'université Nancy Brabois 
+Projet alarme arduino perso fait quand j'était 0 l'université Nancy Brabois 
 
 Ce dossier contient tous les différents élement de mon projet comme par exemple
 le schéma, routage, vue 3d, plan etc.
